@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+fran3478venv
+db.sqlite3
+/static
+.DS_Store
